@@ -17,7 +17,7 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     image: "assets/proj-frontend.jpg",
     repo: "https://github.com/TON-USERNAME/frontend-mini-site",
-    demo: "https://TON-USERNAME.github.io/frontend-mini-site/"
+    demo: "https://mmansourou.rf.gd/"
   },
   {
     title: "Analyse de données Python & Tableau",
