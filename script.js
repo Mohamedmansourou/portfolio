@@ -7,7 +7,7 @@ const projects = [
     title: "Algorithmes de tri en C",
     desc: "Implémentation et comparaison de tri rapide, fusion et insertion avec mesures de performance.",
     tags: ["C", "Algorithmique", "Complexité"],
-    image: "assets/proj-tri-c.jpg",
+    image: "OIP.webp.jpg",
     repo: "https://github.com/TON-USERNAME/algorithmes-tri-c",
     demo: ""
   },
@@ -15,7 +15,7 @@ const projects = [
     title: "Web front-end — HTML/CSS/JS",
     desc: "Mini site responsive avec composants, grille CSS et interactions Vanilla JS.",
     tags: ["HTML", "CSS", "JavaScript"],
-    image: "assets/proj-frontend.jpg",
+    image: "OIPe(1).webp",
     repo: "https://github.com/TON-USERNAME/frontend-mini-site",
     demo: "https://mmansourou.rf.gd/"
   },
@@ -28,10 +28,10 @@ const projects = [
     demo: ""
   },
   {
-    title: "NLP — Extraction d’informations",
+    title: "APPLICATION_D'SMS EN JAVA",
     desc: "Pipeline NLP pour extraire des entités (NER) et résumer des textes, déployé en notebook.",
     tags: ["NLP", "Python", "spaCy"],
-    image: "assets/proj-nlp.jpg",
+    image: "sms.webp",
     repo: "https://github.com/TON-USERNAME/nlp-extraction",
     demo: ""
   },
@@ -39,7 +39,7 @@ const projects = [
     title: "Spark — Traitement Big Data",
     desc: "Job Spark pour agréger et analyser des grandes volumétries avec transformations efficaces.",
     tags: ["Spark", "Hadoop", "Big Data"],
-    image: "assets/proj-spark.jpg",
+    image: "TE.webp",
     repo: "https://github.com/TON-USERNAME/spark-jobs",
     demo: ""
   },
@@ -47,7 +47,7 @@ const projects = [
     title: "Windows Server & AD — Lab",
     desc: "Documentation et scripts pour configurer AD, politiques de sécurité et services DHCP/DNS.",
     tags: ["Windows Server", "Active Directory", "DHCP/DNS"],
-    image: "assets/proj-ad.jpg",
+    image: "W.webp",
     repo: "https://github.com/TON-USERNAME/windows-server-lab",
     demo: ""
   }
